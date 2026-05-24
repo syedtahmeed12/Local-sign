@@ -1,0 +1,6 @@
+{
+  "name": "Document Signer",
+  "description": "Secure local document signing with cryptographic verification, pre-saved signatures, custom text signing, PDF uploads, and end-to-end local encryption audit trails, running entirely offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
