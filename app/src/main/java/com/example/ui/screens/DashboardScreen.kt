@@ -1,7 +1,6 @@
 package com.example.ui.screens
 
 import android.provider.OpenableColumns
-import android.widget.Space
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.animation.*
